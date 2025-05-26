@@ -1,0 +1,24 @@
+ckpts/
+test/
+logs/
+__pycache__/
+/data/
+/data
+
+# MultiScaleDeformableAttention compiled at start
+*.egg-info
+dist/
+build/
+
+.vscode/
+.python
+.python/
+model_weights/
+results/
+*.pth
+checkpoints
+*.pt
+tmp-*
+
+/model_weights
+/output
