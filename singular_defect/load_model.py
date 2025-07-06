@@ -131,6 +131,7 @@ def load_llm(args):
         or args.model.lower().startswith("qwen3_")
         or args.model.lower().startswith("qwen2.5_")
         or "vicuna" in args.model.lower()
+        or "pangu" in args.model.lower()
     ):
         layers = model.model.layers
         hidden_size = model.config.hidden_size

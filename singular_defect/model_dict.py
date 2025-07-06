@@ -362,6 +362,18 @@ MODEL_DICT_LLMs = {
         "model_id": "Qwen/Qwen2.5-Coder-7B-Instruct",
         "cache_dir": CACHE_DIR_BASE,
     },
+    "qwen1.5_14b": {
+        "model_id": "Qwen/Qwen1.5-14B",
+        "cache_dir": CACHE_DIR_BASE,
+    },
+    "qwen2.5_14b": {
+        "model_id": "Qwen/Qwen2.5-14B",
+        "cache_dir": CACHE_DIR_BASE,
+    },
+    "pangu_pro_moe": {
+        "model_id": "IntervitensInc/pangu-pro-moe-model",
+        "cache_dir": CACHE_DIR_BASE,
+    },
     ### vicuna model
     "vicuna1.1_7b": {
         "model_id": "lmsys/vicuna-7b-v1.1",
