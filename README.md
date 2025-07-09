@@ -1,5 +1,7 @@
 # Official Codes for "Demystifying Singular Defects in Large Language Models" (ICML 2025)
 
+[![🦢 - Paper](https://img.shields.io/badge/🦢-Paper-red)](https://openreview.net/pdf?id=4yBnUokU2v)
+
 ## Install
 
 ```bash
@@ -82,7 +84,16 @@ pip install -e .
 <img src="assets/llama3.2_1b_subspace_coef.png" height="300">
 
 ## Cite
-
+```bibtex
+@inproceedings{
+wang2025demystifying,
+title={Demystifying Singular Defects in Large Language Models},
+author={Haoqi Wang and Tong Zhang and Mathieu Salzmann},
+booktitle={Forty-second International Conference on Machine Learning},
+year={2025},
+url={https://openreview.net/forum?id=4yBnUokU2v}
+}
+```
 ## Acknowledgement
 
 The code is built upon the great work of massive activations.
