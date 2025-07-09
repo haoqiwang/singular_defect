@@ -1,6 +1,7 @@
 # Official Codes for "Demystifying Singular Defects in Large Language Models" (ICML 2025)
 
 [![🦢 - Paper](https://img.shields.io/badge/🦢-Paper-red)](https://openreview.net/pdf?id=4yBnUokU2v)
+[![🌊 - Video](https://img.shields.io/badge/🌊-Video-blue)](https://www.youtube.com/watch?v=wBYxzaVaEYc)
 
 ## Install
 
