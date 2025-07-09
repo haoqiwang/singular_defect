@@ -33,7 +33,7 @@ pip install -e .
 ./tools/singular_defects_empirical.py --model llama3.2_1b --thr 700 --pairwise_angle
 # by default, it saves to output/llama3.2_1b_sd_empirical.pth
 
-# visualize angles betweeen layer-wise singular defect directions and empirical singular defect direction
+# visualize angles between layer-wise singular defect directions and empirical singular defect direction
 ./tools/plot_angle.py --model llama3.2_1b --format png --annotate 2 16
 ```
 
