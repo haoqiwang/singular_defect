@@ -2,6 +2,7 @@
 
 [![🦢 - Paper](https://img.shields.io/badge/🦢-Paper-red)](https://openreview.net/pdf?id=4yBnUokU2v)
 [![🌊 - Video](https://img.shields.io/badge/🌊-Video-blue)](https://www.youtube.com/watch?v=wBYxzaVaEYc)
+[![🍒 - Poster](https://img.shields.io/badge/🍒-Poster-purple)](./assets/singularllm-icml2025-poster.pdf)
 
 ## Install
 
