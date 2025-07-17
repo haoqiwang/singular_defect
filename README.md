@@ -4,6 +4,8 @@
 [![🌊 - Video](https://img.shields.io/badge/🌊-Video-blue)](https://www.youtube.com/watch?v=wBYxzaVaEYc)
 [![🍒 - Poster](https://img.shields.io/badge/🍒-Poster-purple)](./assets/singularllm-icml2025-poster.pdf)
 
+https://github.com/user-attachments/assets/e77cae9d-176d-4c30-84fd-b651adb3f27e
+
 ## Install
 
 ```bash
